@@ -1,6 +1,6 @@
 # About Me
 
-[***Digital Art***](./another-page.md)                      |                   [***Coding Projects***](./another-page2.md)
+[***Digital Art***](./another-page.md) | [***Coding Projects***](./coding.md)
 * * * 
 
 ## Education
