@@ -1,3 +1,3 @@
-# Hi 
-:D
-[***About Me***](./README.md)
+# Digital Art Projects
+
+[***About Me***](./README.md) | [***Coding Projects***](./coding.md)
