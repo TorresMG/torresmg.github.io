@@ -1,13 +1,12 @@
-# Computer Scientist
+# About Me
 
-### Education
-example
+## Education
+#### DeSales University
+###### _Center Valley, PA_
+-
 
-### Experience
-Vector Marketing
+## Experience
+#### Vector Marketing
+###### _Remote_
 -description
--description
 
-### Projects
-school project
--insert here
