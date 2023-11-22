@@ -5,6 +5,6 @@
 
 [Landscape Project](./assets/img/Landscape.mp4).
 
-![Helmet Render](./assets/img/torres_helmFront.jpg)
+![Helmet Render](./assets/img/torres_helmFront.jpg =100x100)
 
-![Fake Company Gif Project](./assets/img/Final-Project-gif.gif)
+![Fake Company Gif Project](./assets/img/Final-Project-gif.gif =50x50)
