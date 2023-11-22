@@ -7,7 +7,7 @@
 This ***Java Program*** creates an [Interest Calculator](./assets/javaCode/Interest.java) to calculate either a simple, compound, or continious interest. This program requires a [Driver program](./assets/javaCode/Interest.java) to run it. It displays a GUI to obtain the input from the user then outputs the results into an output file.
 
 ![Dialog Box](./assets/javaCode/Example1.png)
-#### _The dialog box that is prompted once the program starts
+#### _The dialog box that is prompted once the program starts_
 ![Output Statments](./assets/javaCode/Example2.png)
 #### _The output file for the user_
 
