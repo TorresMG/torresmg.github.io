@@ -1,5 +1,4 @@
 # About Me
-* * * 
 
 ## Education
 #### DeSales University | _Center Valley, PA_
