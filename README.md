@@ -2,7 +2,7 @@
 
 ##### I'm Michael Torres, I'm currently a Junior Undergraduate in DeSales University pursuing a B.S in Computer Science along with 2 minors in Mathematics and Digital Art.
 
-[***Digital Art***](./digital-art.md) | [***Coding Projects***](./coding.md)
+[***Coding Projects***](./coding.md) | [***Digital Art***](./digital-art.md) 
 * * * 
 
 ## Skills
