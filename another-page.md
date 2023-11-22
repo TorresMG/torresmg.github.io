@@ -16,6 +16,6 @@
 #### Front View of the helmet, sword, and shield
 
 ## Creating a made-up Company's GIF Advertisement using Adobe Photoshop and Adobe Illustrator
-- Created a fake company that specializes in creating unique car designs and created a gif of an advertisement of this fake company.
+- Created a fake company that specializes in creating unique car designs and created a gif of an advertisement of this fake company with the use of Adobe Programs such as Photoshop and Illustrator.
   
 <img src="./assets/img/Final-Project-gif.gif" width="376" height="520">
