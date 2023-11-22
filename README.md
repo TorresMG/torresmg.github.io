@@ -17,5 +17,5 @@
 -Skills
 
 ### Soft Skills
-- Skills
+-Skills
 
