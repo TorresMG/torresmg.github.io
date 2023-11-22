@@ -7,15 +7,19 @@
 
 ## 3D Texturing using Maya and Adobe Substance Painter
 - The gold and silver realistic textures were made with the use of the 3D Modeling and Texturing software of Maya and Adobe Substance Painter. The models were not made by me but instead were provided by the professor, however all the texturing is original.
-<img src="./assets/img/torres_helmFront.jpg" width="921" height="525">
 
-#### Front View of the Helmet
+#### _Front View of the Helmet_
+<img src="./assets/img/torres_helmFront.jpg" width="521" height="125">
 
-<img src="./assets/img/torres_swordshieldhelmFrontRender.jpg" width="921" height="525">
+#### _Front View of the helmet, sword, and shield_
+<img src="./assets/img/torres_swordshieldhelmFrontRender.jpg" width="521" height="125">
 
-#### Front View of the helmet, sword, and shield
+* * *
 
 ## Creating a made-up Company's GIF Advertisement using Adobe Photoshop and Adobe Illustrator
 - Created a fake company that specializes in creating unique car designs and created a gif of an advertisement of this fake company with the use of Adobe Programs such as Photoshop and Illustrator.
-  
+
+#### _Final Gif_
 <img src="./assets/img/Final-Project-gif.gif" width="376" height="520">
+
+* * *
