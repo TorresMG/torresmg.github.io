@@ -9,10 +9,10 @@
 - The gold and silver realistic textures were made with the use of the 3D Modeling and Texturing software of Maya and Adobe Substance Painter. The models were not made by me but instead were provided by the professor, however all the texturing is original.
 
 #### _Front View of the Helmet_
-<img src="./assets/img/torres_helmFront.jpg" width="521" height="125">
+<img src="./assets/img/torres_helmFront.jpg" width="521" height="325">
 
 #### _Front View of the helmet, sword, and shield_
-<img src="./assets/img/torres_swordshieldhelmFrontRender.jpg" width="521" height="125">
+<img src="./assets/img/torres_swordshieldhelmFrontRender.jpg" width="521" height="325">
 
 * * *
 
