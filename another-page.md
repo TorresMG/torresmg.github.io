@@ -5,6 +5,6 @@
 
 [Landscape Project](./assets/img/Landscape.mp4).
 
-<img src="./assets/img/torres_helmFront.jpg" width="100" height="100">
+<img src="./assets/img/torres_helmFront.jpg" width="150" height="150">
 
-<img src="./assets/img/Final-Project-gif.gif" width="50" height="50">
+<img src="./assets/img/Final-Project-gif.gif" width="150" height="150">
