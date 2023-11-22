@@ -31,8 +31,6 @@ _Minors in Mathematics, Digital Art_
 
 * Achieved the ***Team Captain*** position for the Varsity Desales Esports Team.
 
-* * * 
-
 #### Penn State Lehigh Valley | _Center Valley, PA_ | ***Transfered from May, 2022***
 _28 Credits towards B.S, Computer Science_
 
