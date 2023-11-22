@@ -1,6 +1,7 @@
 # About Me
 
-[Digital Art](./another-page.md) [Coding Projects](./another-page2.md)
+[Digital Art](./another-page.md) | [Coding Projects](./another-page2.md)
+* * * 
 
 ## Education
 #### DeSales University | _Center Valley, PA_
