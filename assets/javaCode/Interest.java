@@ -1,3 +1,4 @@
+// Import Libaries
 import java.util.*;
 import javax.swing.*;
 import java.awt.*;
@@ -8,6 +9,7 @@ import java.io.File;
 import java.io.PrintWriter;
 import java.io.FileNotFoundException;
 
+// Class that creates the Dialog Box for the Interest Calculator
 public class Interest extends JFrame {
    private JFrame frame;
    private JTabbedPane tab;
