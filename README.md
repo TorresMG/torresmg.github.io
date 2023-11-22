@@ -1,6 +1,6 @@
 # About Me
 
-[Projects](./another-page.html)
+[Projects](./another-page.md)
 
 ## Education
 #### DeSales University | _Center Valley, PA_
