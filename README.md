@@ -1,6 +1,6 @@
 # About Me
 
-[\color{lightblue}***Coding Projects***](./coding.md) | [\color{lightblue}***Digital Art***](./digital-art.md) 
+[$${\color{lightblue}***Coding Projects***}$$](./coding.md) | [$${\color{lightblue}***Digital Art***}$$](./digital-art.md) 
 * * * 
 
 ## Skills
