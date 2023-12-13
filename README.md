@@ -1,8 +1,6 @@
 # About Me
 
-##### I'm Michael Torres, I'm currently a Junior Undergraduate in DeSales University pursuing a B.S in Computer Science along with 2 minors in Mathematics and Digital Art.
-
-[***Coding Projects***](./coding.md) | [***Digital Art***](./digital-art.md) 
+[\color{lightblue}***Coding Projects***](./coding.md) | [\color{lightblue}***Digital Art***](./digital-art.md) 
 * * * 
 
 ## Skills
@@ -25,9 +23,11 @@ Presentation skills
 
 _B.S Computer Science_
 
-_Minors in Mathematics, Digital Art_
+_Minor in Mathematics, Minor in Digital Art_
 
 * ***Cumulative GPA:*** 3.7/4.0
+
+* ***Relevant Courses Taken:*** Calculus I, Calculus II, Data Structures, Databases & Data Visualization, Computer Architect & Hardware, Linear Algebra, Game Development, 3D Animation Production I, 3D Animation Production II  
 
 * Received ***Dean's List*** in Fall 2022, Spring 2023
 
@@ -41,6 +41,18 @@ _28 Credits towards B.S, Computer Science_
 * * *
 
 ## Experience 
+
+#### DeSales University | _Center Valley, PA_ | ***August, 2023 - Present***
+
+_Varsity Overwatch Team Captain_
+
+* Using ***leadership skills*** to lead over 10 varsity players to achieve victory
+
+* ***Collaborating*** with players and the other captain to plan and strategize
+
+* Help ***organize*** the schedule for practice sessions and tournament 
+  
+
 #### Vector Marketing | _Remote_ | ***May, 2022 - June, 2022***
 
 _Online Sales Representative_
