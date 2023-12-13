@@ -1,6 +1,6 @@
 # About Me
 
-[***Coding Projects***](./coding.md) | [***Digital Art***](./digital-art.md) 
+## [***Coding Projects***](./coding.md) | [***Digital Art***](./digital-art.md) 
 * * * 
 
 ## Skills
