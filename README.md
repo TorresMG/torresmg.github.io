@@ -1,6 +1,7 @@
 # About Me
 
 [$${\color{lightblue}***Coding Projects***}$$](./coding.md) | [$${\color{lightblue}***Digital Art***}$$](./digital-art.md) 
+$${\boxed{\color{#55AC4C} \sf{About} \space \sf{Me}}}$$ 
 * * * 
 
 ## Skills
