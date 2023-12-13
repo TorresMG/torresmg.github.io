@@ -1,7 +1,6 @@
 # About Me
 
 [***Coding Projects***](./coding.md) | [***Digital Art***](./digital-art.md) 
-[$${\boxed{\color{#55AC4C} \sf{About} \space \sf{Me}}}$$](./coding.md) 
 * * * 
 
 ## Skills
