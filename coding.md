@@ -17,12 +17,26 @@ This ***Java Program*** creates an [Interest Calculator](./assets/javaCode/Inter
 
 ## Evalutating Polygons
 
-This ***C++ Program*** obtains information from the user such as the number of shapes, the number of sides of each shapes, and the side lengths and uses them to calculate what is requested. 
+This ***C++ Program*** obtains information from the user such as the number of shapes, the number of sides of each shapes, and the side lengths and uses them to calculate what is requested. There is also an updated version of this program that utlizes ***linked lists** to store the shape objects. The linked lists can also be modified to insert or delete a shape object if called to.
 
 #### _The query and the outer menu for the user_
 ![First Menu Options](./assets/cppCode/CExample1.png)
 
 #### _The inner menu and table results for the user_
 ![Second Menu Options](./assets/cppCode/CExample2.png)
+
+* * *
+
+## General Coding Experience
+
+***Main Development Environment:*** Visual Studio 2022
+
+***C++ and C#:*** Decent Experience with knowledge on ***Object Oriented Programming***, and ***Data Structures***.
+
+***Python, Juptyer Notebook, and SQL:*** General Understanding with knowledge on ***Data Visualization***.
+
+***Java:*** General Understanding of the basics along with decent experience with ***Object Oriented Programming*** and ***Graphical User Interface***.
+
+
 
 
