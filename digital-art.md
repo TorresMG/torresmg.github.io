@@ -14,7 +14,7 @@
 ## 3D Animation
 
 
-https://github.com/TorresMG/torresmg.github.io/assets/139499918/8f4bcbd8-0761-4a02-8f1f-3296d911ce51
+https://github.com/TorresMG/torresmg.github.io/assets/img/torresMichael_finalAni.mp4
 
 
 - This project was made using the Autodesk Maya software, the model of the bony character and the objects was not created by me. The animations however were all planned and animated by me.
