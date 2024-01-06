@@ -34,7 +34,7 @@ Presentation skills
 * Achieved the ***Team Captain*** position for the Varsity Desales Esports Team.
 
 #### Penn State Lehigh Valley | _Center Valley, PA_ | ***Transfered from May, 2022***
-_28 Credits towards B.S, Computer Science_
+***28 Credits towards B.S, Computer Science***
 
 * Achieved ***Dean's List*** in Spring 2022
 * ***Relevant Classes Taken:*** Object Oriented Programming, Graphic Design, Statistics, Intro to Criminal Justice
