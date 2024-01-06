@@ -21,9 +21,9 @@ Presentation skills
 ## Education
 #### DeSales University | _Center Valley, PA_ | ***Graduate in May, 2025***
 
-***_B.S Computer Science_***
+***B.S Computer Science***
 
-***_Minor in Mathematics, Minor in Digital Art_***
+***Minor in Mathematics, Minor in Digital Art***
 
 * ***Cumulative GPA:*** 3.7/4.0
 
