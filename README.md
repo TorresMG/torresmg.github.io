@@ -21,9 +21,9 @@ Presentation skills
 ## Education
 #### DeSales University | _Center Valley, PA_ | ***Graduate in May, 2025***
 
-_B.S Computer Science_
+***_B.S Computer Science_***
 
-_Minor in Mathematics, Minor in Digital Art_
+***_Minor in Mathematics, Minor in Digital Art_***
 
 * ***Cumulative GPA:*** 3.7/4.0
 
@@ -57,7 +57,7 @@ _Varsity Overwatch Team Captain_
 
 _Online Sales Representative_
 
-* Reposible for ***promoting and selling*** CUTCO cutlery products in an online environment
+* Responsible for ***promoting and selling*** CUTCO cutlery products in an online environment
 
 * Have extensive knowledge on the products that are being presented and prepared to demonstrate its strengths.
 
