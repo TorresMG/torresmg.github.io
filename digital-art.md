@@ -13,7 +13,9 @@
 * * *
 ## 3D Animation
 
-
+<video width="1280" height="720" controls autoplay muted loop>
+<source src="[https://michael1410.github.io/RobotGoon/videos/WebIntroG.mp4](https://github.com/TorresMG/torresmg.github.io/assets/139499918/51d76250-800d-48c8-9b3c-3d5ad20823af)" type="video/mp4">
+</video>
 https://github.com/TorresMG/torresmg.github.io/assets/139499918/51d76250-800d-48c8-9b3c-3d5ad20823af
 
 - This project was made using the Autodesk Maya software, the model of the bony character and the objects was not created by me. The animations however were all planned and animated by me.
