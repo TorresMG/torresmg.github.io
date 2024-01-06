@@ -37,6 +37,7 @@ Presentation skills
 _28 Credits towards B.S, Computer Science_
 
 * Achieved ***Dean's List*** in Spring 2022
+* ***Relevant Classes Taken:*** Object Oriented Programming, Graphic Design, Statistics, Intro to Criminal Justice
 
 * * *
 
