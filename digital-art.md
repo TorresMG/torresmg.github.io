@@ -18,10 +18,11 @@ https://github.com/TorresMG/torresmg.github.io/assets/139499918/51d76250-800d-48
 
 - This project was made using the Autodesk Maya software, the model of the bony character and the objects was not created by me. The animations however were all planned and animated by me.
 
+* * *
 
 - This [Landscape Project](./assets/img/Landscape.mp4) was made using the ***Blender*** software and uses various different tools that help bring life to this vibrant animation. The inspiration for this project was from this [video](https://www.youtube.com/watch?v=3p2B6dZIRTY&list=PLNShHVjao84dy-lPJR2fpHzyoses0mCE7) created by Ducky 3D. 
 
-## 3D Texturing using Maya and Adobe Substance Painter
+## 3D Texturing
 - The gold and silver realistic textures were made with the use of the 3D Modeling and Texturing software of ***Maya*** and ***Adobe Substance Painter***. The models were not made by me but instead were provided by the professor, however all the texturing is original.
 
 #### _Front View of the Helmet_
